@@ -39,7 +39,7 @@ h3 {
 
 body {
   font-family: 'OpenSans';
-  font-size: 18px;
+  font-size: 1.125rem;
   font-weight: 400;
   color: var(--grayishBlue);
 }
@@ -63,7 +63,7 @@ body {
   height: 19px;
 }
 .header nav .btn1 {
-  font-size: 10px;
+  font-size: 0.625rem;
   background-color: var(--white);
   padding: 3px 21px 8px;
   border-radius: 24px;
@@ -91,7 +91,7 @@ body {
 }
 
 .header-left h1 {
-  font-size: 24px;
+  font-size: 1.5rem;
   padding: 0 24px;
   letter-spacing: -0.5px;
   font-weight: 500;
@@ -99,8 +99,8 @@ body {
 .header-left p {
   margin-top: 21px;
   padding: 0 20px;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 1rem;
+  line-height: 1.5rem;
 }
 .header-left button,
 .btn3 {
@@ -142,16 +142,16 @@ body {
 .grow-left h2,
 .flowing-right h2,
 .users-left h2 {
-  font-size: 20px;
+  font-size: 1.25rem;
   font-weight: 400;
 }
 
 .grow-left p,
 .flowing-right p,
 .users-left p {
-  font-size: 14px;
+  font-size: 0.875rem;
   margin-top: 12.5px;
-  line-height: 21.2px;
+  line-height: 1.325rem;
 }
 .grow-left p {
   padding: 0 30px;
@@ -193,14 +193,14 @@ body {
   background: var(--white);
 }
 .community h2 {
-  font-size: 18px;
+  font-size: 1.125rem;
   font-weight: 400;
 }
 .community .btn3 {
   margin-top: 24px;
   padding: 14px 53px;
   width: auto;
-  font-size: 10px;
+  font-size: 0.625rem;
 }
 footer {
   background-color: var(--veryDarkCyan);
@@ -212,8 +212,8 @@ footer {
   height: 26px;
 }
 .footer-left ul {
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 1rem;
+  line-height: 1.5rem;
 }
 .footer-left ul li {
   display: flex;
@@ -252,7 +252,7 @@ footer {
 
 .footer-middle {
   margin-top: 20px;
-  font-size: 18px;
+  font-size: 1.125rem;
   padding-top: 20px;
 }
 
@@ -296,7 +296,7 @@ footer {
   height: 14px;
 }
 footer .copy {
-  font-size: 12px;
+  font-size: 0.75rem;
   text-align: center;
   color: var(--white);
 }
@@ -384,7 +384,7 @@ footer .copy {
     margin-top: 7px;
   }
   .header nav .btn1 {
-    font-size: 14px;
+    font-size: 0.875rem;
     padding: 14px 66px 17px;
     font-weight: 700;
   }
@@ -395,23 +395,23 @@ footer .copy {
     flex-basis: 41%;
   }
   .header-left h1 {
-    font-size: 40px;
-    line-height: 60px;
+    font-size: 2.5rem;
+    line-height: 3.75rem;
     padding: 33px 0 0 0;
     letter-spacing: -0.2px;
   }
   .header-left p {
     margin-top: 28px;
     padding: 0 5px 0 0;
-    font-size: 18px;
-    line-height: 27px;
+    font-size: 1.125rem;
+    line-height: 1.6875rem;
     color: hsl(194, 30%, 21%);
   }
   .header-left button {
     width: auto;
     margin-top: 32px;
     padding: 18px 70px 21px;
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: 700;
   }
   .header-right {
@@ -440,14 +440,14 @@ footer .copy {
     margin-top: 150px;
   }
   .grow-left h2 {
-    font-size: 28px;
+    font-size: 1.75rem;
     margin-top: 3px;
   }
   .grow-left p {
-    font-size: 18px;
+    font-size: 1.125rem;
     padding-bottom: 2px;
     margin-top: 13px;
-    line-height: 27px;
+    line-height: 1.6875rem;
     letter-spacing: 0.07px;
   }
 
@@ -473,12 +473,12 @@ footer .copy {
   }
   .flowing-right h2,
   .users-left h2 {
-    font-size: 28px;
+    font-size: 1.75rem;
   }
   .flowing-right p {
-    font-size: 18px;
+    font-size: 1.125rem;
     margin-top: 12.5px;
-    line-height: 27px;
+    line-height: 1.6875rem;
   }
 
   .users-left {
@@ -486,9 +486,9 @@ footer .copy {
   }
 
   .users-left p {
-    font-size: 18px;
+    font-size: 1.125rem;
     margin-top: 11px;
-    line-height: 27.4px;
+    line-height: 1.7125rem;
     letter-spacing: 0.055px;
   }
   .users-right {
@@ -498,17 +498,17 @@ footer .copy {
   .community {
     width: 802px;
     margin: 0 auto;
-    margin-top: 62px;
+    margin-top: 64px;
     padding: 67px 0 52px;
     bottom: -96px;
   }
   .community h2 {
-    font-size: 31.8px;
+    font-size: 1.9875rem;
   }
   .community .btn3 {
     margin-top: 35px;
     padding: 24.5px 102px;
-    font-size: 22px;
+    font-size: 1.375rem;
     font-weight: 500;
   }
   footer {
