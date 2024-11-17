@@ -8,8 +8,8 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-7zIeFvKVfR)
+- Live Site URL: [Live site URL here](https://donjr2.github.io/Frontend-Mentor---Huddle-landing-page-with-alternating-feature-blocks-solution/)
 
 ### Built with
 
