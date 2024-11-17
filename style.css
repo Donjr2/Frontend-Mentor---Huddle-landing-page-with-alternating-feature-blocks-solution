@@ -161,7 +161,7 @@ body {
 }
 .flowing {
   margin-top: 39px;
-  padding-bottom: 57px;
+  padding-bottom: 56px;
 }
 .flowing-left {
   padding: 58px 51px 67px;
@@ -430,9 +430,9 @@ footer .copy {
     align-items: flex-start;
   }
 
-  .grow {
-    padding: 3px 0;
-  }
+  /* .grow {
+    padding: 1px 0;
+  } */
   .grow-left {
     flex-basis: 50%;
     padding-left: 121px;
