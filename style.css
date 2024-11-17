@@ -499,7 +499,7 @@ footer .copy {
     width: 802px;
     margin: 0 auto;
     margin-top: 62px;
-    padding: 65px 0 52px;
+    padding: 67px 0 52px;
     bottom: -96px;
   }
   .community h2 {
@@ -507,12 +507,12 @@ footer .copy {
   }
   .community .btn3 {
     margin-top: 35px;
-    padding: 26.5px 102px;
+    padding: 24.5px 102px;
     font-size: 22px;
     font-weight: 500;
   }
   footer {
-    padding: 193px 72px 58px 120px;
+    padding: 190px 72px 58px 120px;
     align-items: flex-start;
   }
   .footer-left img {
