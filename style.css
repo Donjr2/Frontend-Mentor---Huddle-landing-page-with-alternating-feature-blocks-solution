@@ -389,7 +389,7 @@ footer .copy {
     font-weight: 700;
   }
   .header .header-content {
-    margin-top: 11px;
+    margin-top: 8px;
   }
   .header-left {
     flex-basis: 41%;
@@ -421,7 +421,7 @@ footer .copy {
     padding: 0 0 0 23px;
   }
   .main {
-    margin-top: 161px;
+    margin-top: 160px;
     padding: 0 93px;
   }
   .grow,
